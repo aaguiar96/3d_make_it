@@ -9,3 +9,9 @@ Unified and collaborative repo for 3D printer settings.
 ```
 <filament_type>_<filament_color>_<filament_brand>_<your_name>.<file_extension>
 ```
+
+# So far contributions
+
+| Printer | Slicer | File |
+|---|---|---|
+| Ender3 pro | PrusaSlicer | petg_back_andreaguiar.ini
