@@ -12,6 +12,6 @@ Unified and collaborative repo for 3D printer settings.
 
 # So far contributions
 
-| Printer | Slicer | Descriptio | File |
+| **Printer** | **Slicer** | **Description** | **File** |
 |---|---|---|---|
 | Ender3 pro | PrusaSlicer | Black PETG from Evolt (17-04-2021) | petg_black_evolt_andreaguiar.ini |
